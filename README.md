@@ -1,5 +1,7 @@
 # Mint a NFT from scratch.
-In this project, I've minted my Twitter profile's dp as NFT on the Kovan Test Network.
+In this project, I've minted my Twitter profile's dp as NFT on the Kovan Test Network.  
+
+NFT's link : https://gateway.pinata.cloud/ipfs/QmejvQEcjVitxaGYpmn2DWCvKHRe562xf1tTHjuEGWkgEF
 
 # How to mint your own NFT?
 
